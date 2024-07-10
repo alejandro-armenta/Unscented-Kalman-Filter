@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "*.txx": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
